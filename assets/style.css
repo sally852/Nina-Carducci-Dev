@@ -98,10 +98,9 @@ blockquote p{
 
 .picture img {
 	width: 100%;
-
 }
 #about-me {
-	flex: 2
+	flex: 2;
 }
 .about-me__title {
 	margin-top: 1em;
@@ -131,8 +130,8 @@ blockquote p{
 	justify-content: center;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-	color: #fff;
-	background-color: #000000;
+	color: #000;
+	background-color: #BEB45A;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
